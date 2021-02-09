@@ -2,16 +2,20 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#264653"
+    android:gravity="center"
     android:orientation="vertical">
 
     <EditText
         android:id="@+id/editText"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="40dp"
         android:layout_marginTop="8dp"
         android:ems="10"
         android:gravity="center"
-        android:hint="masukkan nama"
+        android:layout_margin="10dp"
+        android:background="@drawable/custom2"
+        android:hint="Masukkan Text"
         android:inputType="textPersonName" />
 
     <Button
@@ -20,5 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="8dp"
+        android:background="@drawable/custom"
+        android:textColor="#ffffff"
         android:text="Send Data" />
 </LinearLayout>
