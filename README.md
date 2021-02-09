@@ -20,5 +20,6 @@ Hal yang sama misalnya ketika kita membutuhkan fungsi berbagi konten. Kita bisa 
 Implementasi implicit intent ini akan sangat memudahkan bagi pengembang agar tetap fokus pada proses bisnis inti dari aplikasi yang dikembangkan.
 
 
+# Tampilan Penerapan Intent
 ![image](https://user-images.githubusercontent.com/60589670/107396475-5db9ec00-6b30-11eb-829d-598abbdfa55f.png)
 ![image](https://user-images.githubusercontent.com/60589670/107396602-7e824180-6b30-11eb-83bf-ed43b080bd13.png)
